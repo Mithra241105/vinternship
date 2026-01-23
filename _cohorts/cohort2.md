@@ -1,11 +1,12 @@
 ---
 layout: cohort-page
-title: "NPTEL Cohort 2"
+title: "Dijkstrians"
 cohort_id: cohort2
-display_name: "Cohort 2"
+display_name: "Dijkstrians"
 start_date: "22nd Jan 2026"
-status: "Upcoming"
-dashboard_available: false
+end_date: ""
+status: "Active" #"Upcoming"
+dashboard_available: true
 color: "059669"
 schedule:
   standups:
@@ -16,8 +17,11 @@ schedule:
 ## 📋 General Information
 
 Welcome to **Cohort 2**!    
-This cohort will start on 22nd January 2026.
+This cohort focuses on building full-stack applications using the MERN stack.
 
 ### Important Notes:
 - Stand-ups will be scheduled as per the timetable
 - Stay tuned for announcements
+  
+## Forms and links
+- [Case Study Submission Form](https://docs.google.com/forms/d/e/1FAIpQLSctefkw36-SuJZ6iQb8nBzwJJ9G4ommbfO_-gEgAJ1yfl4mgA/viewform){:target="_blank"}
